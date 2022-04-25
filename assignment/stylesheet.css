@@ -1,0 +1,13 @@
+header {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    background-image: middle;
+    background-repeat: repeat;
+}
