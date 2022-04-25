@@ -5,9 +5,25 @@ header {
 }
 
 main {
+    background-image: url(/Users/courtneyazar/Desktop/week5/prime-pw-week-5-assignment-part-2/assignment/record.png);
+    display: block;
+    width: auto;
+    height: 720px;
+    background-position: left top, right bottom;
+    background-repeat: repeat;
+    padding: 1em;
+}
+
+.One {
     background-color: lightgray;
     color: black;
     text-align: center;
-    background-image: middle;
-    background-repeat: repeat;
+}
+
+body {
+    margin: 0px;
+}
+
+ul {
+    padding-inline: 30%;
 }
